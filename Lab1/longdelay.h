@@ -2,7 +2,7 @@
  * longdelay.h
  *
  *  Created on: 27-02-2019
- *      Author: psm8
+ *      Author: Adam Djellouli
  */
 
 #ifndef LONGDELAY_H_
