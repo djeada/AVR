@@ -2,7 +2,7 @@
  * main.c
  *
  *  Created on: 20-02-2019
- *      Author: psm8
+ *      Author: Adam Djellouli
  */
 
 
