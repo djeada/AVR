@@ -2,7 +2,7 @@
  * spi.h
  *
  *  Created on: 03-04-2019
- *      Author: psm8
+ *      Author: Adam Djellouli
  */
 
 #ifndef SPI_H_
