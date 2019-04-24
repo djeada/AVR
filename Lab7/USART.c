@@ -1,7 +1,7 @@
 /* * USART.c
  *
  *  Created on: 27-03-2019
- *      Author: psm8
+ *      Author: Adm Djellouli
  */
 
 #include "USART.h"
