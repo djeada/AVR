@@ -2,7 +2,7 @@
  * USART.h
  *
  *  Created on: 27-03-2019
- *      Author: psm8
+ *      Author: Adam Djellouli
  */
 
 #ifndef USART_H_
