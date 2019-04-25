@@ -2,7 +2,7 @@
  * twi.h
  *
  *  Created on: 24-04-2019
- *      Author: psm8
+ *      Author: Adam Djellouli
  */
 
 #ifndef TWI_H_
