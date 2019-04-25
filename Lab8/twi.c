@@ -2,7 +2,7 @@
  * twi.c
  *
  *  Created on: 24-04-2019
- *      Author: psm8
+ *      Author: Adam Djellouli
  */
 
 #include "twi.h"
