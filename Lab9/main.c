@@ -1,8 +1,8 @@
 /*
- * main.c
+ * LCD.c
  *
- *  Created on: 20-02-2019
- *      Author: psm8
+ *  Created on: 06-03-2019
+ *      Author: Adam Djellouli
  */
 
 #include <avr/interrupt.h>
