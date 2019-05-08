@@ -1,4 +1,10 @@
 #include "1wire.h"
+/*
+ * LCD.c
+ *
+ *  Created on: 06-03-2019
+ *      Author: Adam Djellouli
+ */
 
 uint8_t OW_reset(void){
 	int result;
