@@ -1,9 +1,10 @@
 /*
- * LCD.h
+ * LCD.c
  *
  *  Created on: 06-03-2019
- *      Author: psm8
+ *      Author: Adam Djellouli
  */
+
 
 
 
