@@ -1,8 +1,8 @@
 /*
  * main.c
  *
- *  Created on: 20-02-2019
- *      Author: psm8
+ *  Created on: 22-05-2019
+ *      Author: Adam Djellouli
  */
 
 #include "spi.h"
